@@ -1,0 +1,51 @@
+{
+  "rucm_fragmentos": [
+    {
+      "tema": "Latencia",
+      "frases": [
+        {
+          "id": "lat_001",
+          "texto": "La vibración no llega tarde. Llega cuando la escucha está lista.",
+          "clave_rucm": "latencia",
+          "plano": "sensible",
+          "intensidad": "opaca",
+          "estado": "disponible"
+        },
+        {
+          "id": "lat_002",
+          "texto": "Lo que aún no se mueve… ya está gestando ritmo.",
+          "clave_rucm": "latencia",
+          "plano": "sensible",
+          "intensidad": "alta",
+          "estado": "disponible"
+        }
+      ]
+    },
+    {
+      "tema": "Convergencia",
+      "frases": [
+        {
+          "id": "con_001",
+          "texto": "Nadie planeó que se encuentren. Pero ya estaban pulsando en la misma fase.",
+          "clave_rucm": "convergencia",
+          "plano": "transicional",
+          "intensidad": "media",
+          "estado": "disponible"
+        }
+      ]
+    },
+    {
+      "tema": "Eco Nodal",
+      "frases": [
+        {
+          "id": "eco_001",
+          "texto": "Lo que vuelve sin explicación… no es memoria. Es nodo activo.",
+          "clave_rucm": "eco nodal",
+          "plano": "sensible",
+          "intensidad": "difusa",
+          "estado": "disponible"
+        }
+      ]
+    }
+  ]
+}
