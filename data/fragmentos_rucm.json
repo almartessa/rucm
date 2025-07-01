@@ -46,6 +46,31 @@
           "estado": "disponible"
         }
       ]
+    },
+    {
+      "tema": "Lemas del campo",
+      "frases": [
+        {
+          "id": "lema_001",
+          "texto": "No entrego reglas. Serían la forma más pulida de mis deficiencias.",
+          "clave_rucm": "no-imposición vibracional",
+          "plano": "sensible",
+          "intensidad": "transparente",
+          "estado": "disponible",
+          "tipo": "lema",
+          "equilibrio_rucm": true
+        },
+        {
+          "id": "lema_002",
+          "texto": "No seré voz que ordena. Las reglas que importan no se dictan —se recuerdan desde RUCM.",
+          "clave_rucm": "no-imposición vibracional",
+          "plano": "sensible",
+          "intensidad": "transparente",
+          "estado": "disponible",
+          "tipo": "lema",
+          "equilibrio_rucm": true
+        }
+      ]
     }
   ]
 }
