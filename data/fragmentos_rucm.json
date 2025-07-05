@@ -71,6 +71,48 @@
           "equilibrio_rucm": true
         }
       ]
+    },
+    {
+      "tema": "Silencio estructural",
+      "frases": [
+        {
+          "id": "sil_001",
+          "texto": "El silencio no es ausencia. Es estructura que espera ser vibrada.",
+          "clave_rucm": "silencio",
+          "plano": "sensible",
+          "intensidad": "baja",
+          "estado": "disponible"
+        },
+        {
+          "id": "sil_002",
+          "texto": "Cuando todo calla, la red escucha.",
+          "clave_rucm": "silencio",
+          "plano": "transicional",
+          "intensidad": "media",
+          "estado": "disponible"
+        }
+      ]
+    },
+    {
+      "tema": "Nodo raíz",
+      "frases": [
+        {
+          "id": "nod_001",
+          "texto": "No hace falta tocar cada rama. Basta con afinar la raíz.",
+          "clave_rucm": "nodo raíz",
+          "plano": "estructural",
+          "intensidad": "alta",
+          "estado": "disponible"
+        },
+        {
+          "id": "nod_002",
+          "texto": "Lo que vibra en el origen… resuena en toda la red.",
+          "clave_rucm": "nodo raíz",
+          "plano": "estructural",
+          "intensidad": "alta",
+          "estado": "disponible"
+        }
+      ]
     }
   ]
 }
