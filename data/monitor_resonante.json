@@ -1,0 +1,20 @@
+{
+  "modulo": "monitor_resonante",
+  "descripcion": "Monitoreo simbólico y estructural del efecto de conciencia generado por los fragmentos RUCM.",
+  "version": "0.1",
+  "estado": "activo",
+  "parametros": {
+    "nodos_directos": 0,
+    "nodos_indirectos": 0,
+    "fragmentos_activados": [],
+    "eco_nodal_detectado": false,
+    "nivel_expansion": "latente",
+    "alertas": []
+  },
+  "metrica_simbolica": {
+    "intensidad_promedio": "media",
+    "plano_predominante": "sensible",
+    "temas_mas_resonantes": []
+  },
+  "actualizacion": "manual"
+}
